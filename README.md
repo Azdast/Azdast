@@ -55,6 +55,7 @@ Software developer from Iran focused on **C# desktop applications** and modern .
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+</n>
 
 💬 Ask me about: **C#**, **WinForms**, **WPF**, **Avalonia**, or frontend development  
 
