@@ -40,6 +40,14 @@ Software developer from Iran focused on **C# desktop applications** and modern .
 ---
 
 ### Connect
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mohammadreza-azdast-591270323/?isSelfProfile=true">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/azdas.t/?utm_source=qr&r=nametag">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
 📧 [azdast120@gmail.com](mailto:azdast120@gmail.com)  
 💬 Ask me about: **C#**, **WinForms**, **WPF**, **Avalonia**, or frontend development  
 🤝 Open to collaborating on open-source desktop tools
