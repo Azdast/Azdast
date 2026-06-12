@@ -1,5 +1,6 @@
 # 👋 Hi, I'm MohammadReza Azdast
 
+Software Developer • C# • .NET • Avalonia
 ## 🧑‍💻 About Me
 
 ### 🛠️ Tech Stack
@@ -19,9 +20,12 @@ I'm a software developer from Iran focused on C# desktop applications and modern
 - Modern .NET Development
 - Avalonia UI
 - Software Architecture
-- 👯 Looking to collaborate on: open-source desktop tools (WinForms/WPF/Avalonia) or frontend projects
-- 💬 Ask me about: C#, WinForms, WPF, Avalonia, or frontend dev
-- 📫 How to reach me: [azdast120@gmail.com](mailto:azdast120@gmail.com)
+
+👯 Looking to collaborate on: open-source desktop tools (WinForms/WPF/Avalonia) or frontend projects
+
+💬 Ask me about: C#, WinForms, WPF, Avalonia, or frontend dev
+
+📫 How to reach me: [azdast120@gmail.com](mailto:azdast120@gmail.com)
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azdast&show_icons=true&theme=github_dark)
