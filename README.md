@@ -16,16 +16,16 @@ Software developer from Iran focused on **C# desktop applications** and modern .
 <table>
   <tr>
     <td valign="top"><b>Desktop & Backend</b><br><br>
-      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Avalonia-3B2A5B?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTI1IDBMMjUwIDYyLjV2MTI1TDEyNSAyNTAgMCAxODcuNXYtMTI1TDEyNSAweiIvPjwvc3ZnPg==&logoColor=white"/>
-      <img src="https://img.shields.io/badge/WPF-239120?style=flat&logo=windows&logoColor=white"/>
-      <img src="https://img.shields.io/badge/WinForms-239120?style=flat&logo=windows&logoColor=white"/>
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Avalonia-3B2A5B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTI1IDBMMjUwIDYyLjV2MTI1TDEyNSAyNTAgMCAxODcuNXYtMTI1TDEyNSAweiIvPjwvc3ZnPg==&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WPF-239120?style=for-the-badge&logo=windows&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WinForms-239120?style=for-the-badge&logo=windows&logoColor=white"/>
     </td>
     <td valign="top"><b>Frontend</b><br><br>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     </td>
   </tr>
 </table>
