@@ -22,5 +22,4 @@ I'm a software developer from Iran focused on C# desktop applications and modern
 
 ⭐️ From [Azdast](https://github.com/Azdast)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azdast&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azdast&layout=compact)
