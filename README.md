@@ -6,7 +6,7 @@
 
 ---
 
-### About Me
+### 🧑‍💻 About Me
 Software developer from Iran focused on **C# desktop applications** and modern .NET development. I build practical tools that solve real-world problems and enjoy exploring new technologies — currently diving deeper into Avalonia UI and clean software architecture.
 
 ---
@@ -39,7 +39,7 @@ Software developer from Iran focused on **C# desktop applications** and modern .
 
 ---
 
-### Connect
+### 📫 Connect
 
 <div id="badges">
   
