@@ -13,23 +13,24 @@ Software developer from Iran focused on **C# desktop applications** and modern .
 
 ### 🛠 Tech Stack
 
-<table>
+<table style="border-radius: 16px; overflow: hidden; border-collapse: collapse; box-shadow: 0 4px 12px rgba(0,0,0,0.1); width: 100%;">
   <tr>
-    <td valign="top"><b>Desktop & Backend</b><br><br>
+    <td valign="top" style="padding: 20px; border-right: 1px solid #333; background: #1a1a1a; border-radius: 16px 0 0 16px;">
+      <b>Desktop & Backend</b><br><br>
       <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
       <img src="https://img.shields.io/badge/Avalonia-3B2A5B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTI1IDBMMjUwIDYyLjV2MTI1TDEyNSAyNTAgMCAxODcuNXYtMTI1TDEyNSAweiIvPjwvc3ZnPg==&logoColor=white"/>
       <img src="https://img.shields.io/badge/WPF-239120?style=for-the-badge&logo=windows&logoColor=white"/>
       <img src="https://img.shields.io/badge/WinForms-239120?style=for-the-badge&logo=windows&logoColor=white"/>
     </td>
-    <td valign="top"><b>Frontend</b><br><br>
+    <td valign="top" style="padding: 20px; background: #1a1a1a; border-radius: 0 16px 16px 0;">
+      <b>Frontend</b><br><br>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🌱 Currently Learning
