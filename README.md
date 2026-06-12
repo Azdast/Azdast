@@ -24,9 +24,9 @@ I'm a software developer from Iran focused on C# desktop applications and modern
 - 📫 How to reach me: [azdast120@gmail.com](mailto:azdast120@gmail.com)
 
 ### 📊 GitHub Stats
-<image-card alt="Azdast's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Azdast&show_icons=true&theme=radical" ></image-card>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azdast&show_icons=true&theme=tokyonight)
 
-<image-card alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azdast&layout=compact&theme=radical" ></image-card>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azdast&layout=compact&theme=tokyonight)
 
 ⭐️ From [Azdast](https://github.com/Azdast)
 
