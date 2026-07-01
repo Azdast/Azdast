@@ -13,15 +13,14 @@ Software developer from Iran focused on **C# desktop applications** and modern .
 
 ### 🛠 Tech Stack
 
-<table >
-  <tr>
+<table ><tr>
     <td>
       <b>Desktop & Backend</b><br><br>
       <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Avalonia-3B2A5B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTI1IDBMMjUwIDYyLjV2MTI1TDEyNSAyNTAgMCAxODcuNXYtMTI1TDEyNSAweiIvPjwvc3ZnPg==&logoColor=white"/>
-      <img src="https://img.shields.io/badge/WPF-239120?style=for-the-badge&logo=windows&logoColor=white"/>
-      <img src="https://img.shields.io/badge/WinForms-239120?style=for-the-badge&logo=windows&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Avalonia-3B2A5B?style=for-the-badge&logo=avaloniaui&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WPF-239120?style=for-the-badge&logo=windows11&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WinForms-239120?style=for-the-badge&logo=windows11&logoColor=white"/>
     </td>
     <td>
       <b>Frontend</b><br><br>
