@@ -65,9 +65,9 @@ Software developer from Iran focused on **C# desktop applications** and modern .
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azdast&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azdast&layout=compact&theme=github_dark)
+![](https://github-readme-stats.shion.dev/api?username=Azdast&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Azdast&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Azdast&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
