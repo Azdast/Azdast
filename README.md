@@ -1,7 +1,7 @@
 # 👋 Hi, I'm MohammadReza Azdast
 
 ```
-// software developer · Rust · Tauri · Svelte
+// software developer · Rust · Tauri · Svelte · React
 ```
 
 ---
@@ -10,7 +10,7 @@
 
 Software developer from Iran passionate about building modern applications and practical software solutions. Currently focused on **Rust backend development**, **Tauri desktop applications**, and **Svelte frontend development**.
 
-I enjoy exploring new technologies, writing clean and efficient code, and building applications that combine performance with a great user experience.
+I also have experience with **React and Next.js**, and enjoy working across different parts of the development stack, exploring new technologies, and building software that combines performance with a great user experience.
 
 ---
 
@@ -26,6 +26,8 @@ I enjoy exploring new technologies, writing clean and efficient code, and buildi
   <td>
     <b>Frontend</b><br/><br/>
     <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -36,7 +38,7 @@ I enjoy exploring new technologies, writing clean and efficient code, and buildi
 
 ---
 
-### 🌱 Currently Exploring
+### 🌱 Currently Focusing On
 
 `Rust` &nbsp; `Tauri` &nbsp; `Svelte` &nbsp; `Backend Development` &nbsp; `Software Architecture`
 
@@ -60,7 +62,7 @@ I enjoy exploring new technologies, writing clean and efficient code, and buildi
 
 <br/>
 
-💬 Ask me about: **Rust**, **Tauri**, **Svelte**, or application development.
+💬 Ask me about: **Rust**, **Tauri**, **Svelte**, **React**, **Next.js**, or application development.
 
 🤝 Open to collaborating on open-source projects and interesting software ideas.
 
