@@ -19,11 +19,18 @@ I also have experience with **React and Next.js**, and enjoy working across diff
 <table>
 <tr>
   <td>
-    <b>Backend & Desktop</b><br/><br/>
+    <b>Backend</b><br/><br/>
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   </td>
   <td>
+    <b>Desktop Applications</b><br/><br/>
+    <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white"/>
+  </td>
+</tr>
+<tr>
+  <td colspan="2">
     <b>Frontend</b><br/><br/>
     <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -35,7 +42,6 @@ I also have experience with **React and Next.js**, and enjoy working across diff
   </td>
 </tr>
 </table>
-
 ---
 
 ### 🌱 Currently Focusing On
